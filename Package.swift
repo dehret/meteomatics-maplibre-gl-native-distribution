@@ -14,6 +14,6 @@ let package = Package(
         .binaryTarget(
             name: "MapLibre",
             url: "https://github.com/dehret/meteomatics-maplibre-gl-native-distribution/raw/a24df4a8075b620fdc04f582f10ce5ce03952447/MapLibre.dynamic.xcframework.zip",
-            checksum: "2201916a1b6b5e72c486f236670bc860160d66ac5233810636b66b160efe9110")
+            checksum: "f5e405441fcf96366b5f5ee7e4396df5bc6abf67f19a67bebcc4ada3ed0febe4")
     ]
 )
